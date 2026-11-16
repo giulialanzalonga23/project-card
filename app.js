@@ -7,7 +7,7 @@ let counter = 0;
 btn_text.addEventListener('click', (e)=>{
     counter++;
 
-    if(counter % 2 !== 0) {
+    if(counter % 2 !== 0){
         text.style.display = 'none';
         e.target.textContent = 'Mostra Testo';
         return
