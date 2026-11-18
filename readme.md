@@ -69,4 +69,4 @@ Questo repository è stato creato durante un'esercitazione pratica
 su Git e GitHub.
 
 ## Altre modifiche
-Aggiungo testo di prova
+Aggiungo testo di prova che dovrei vedere in VSC
