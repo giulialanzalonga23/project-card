@@ -62,4 +62,4 @@ Lo script `app.js` seleziona il pulsante e il testo tramite il DOM e ascolta l'e
 Realizzato da **Il tuo nome** come esercizio su Git e GitHub.
 
 ## Licenza
-Giulia Lanzalonga
+Giulia Lanzalonga & Company
