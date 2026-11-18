@@ -67,3 +67,6 @@ Giulia Lanzalonga & Company (Hello World!)
 ## Note
 Questo repository è stato creato durante un'esercitazione pratica
 su Git e GitHub.
+
+## Altre modifiche
+Aggiungo testo di prova
